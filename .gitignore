@@ -1,0 +1,3 @@
+build/**
+!build/rp2350geek.uf2
+!.vscode/*
